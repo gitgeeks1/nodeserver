@@ -1,3 +1,10 @@
+//sudo su
+//curl -fsSL http://deb.nodesource.com/setup_17.x | bash -
+//sudo apt install nodejs
+//npm --version
+//node --version
+//node
+
 var http = require("http");  
   
 http.createServer(function (request, response) {  
